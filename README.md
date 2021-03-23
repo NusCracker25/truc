@@ -1,6 +1,7 @@
 # AgGh
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Goal of this project is to explore the use of Github and github pages to support dev and deployment.
 
 ## Development server
 
